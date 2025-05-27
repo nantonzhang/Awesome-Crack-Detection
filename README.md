@@ -105,21 +105,33 @@ template:
 
 ## Datasets
 
+1. **Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7572082)]
+
+   - This paper proposes a new algorithm for automatic crack detection from 2D pavement images. It strongly relies on the localization of minimal paths within each image, a path being a series of neighboring pixels and its score being the sum of their intensities. The originality of the approach stems from the proposed way to select a set of minimal paths and the two postprocessing steps introduced to improve the quality of the detection.
+   - An intensive validation is performed on both synthetic and real images (from five different acquisition systems), with comparisons to five existing methods.
+   - ![Screenshot 2025-05-27 at 10 14 40 AM](https://github.com/user-attachments/assets/6c9ee3fc-cb05-421c-bf18-d6c2c4c0edc1)
+
+
 1. **CrackSeg9k: A Collection and Benchmark for Crack Segmentation Datasets and Frameworks**, *ECCV W*, 2022.  [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_12)]
 
    - This paper addresses these problems by combining previously available datasets and unifying the annotations by tackling the inherent problems within each dataset, such as noise and distortions.
    - We also present a pipeline that combines Image Processing and Deep Learning models. Finally, we benchmark the results of proposed models on these metrics on our new dataset and compare them with state-of-the-art models in the literature.
-   - <img width="863" alt="Screenshot 2025-05-05 at 11 35 35 AM" src="https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/e3ea55ff-265f-4716-82ae-abdc1656a8e6">
+   - ![image](https://github.com/user-attachments/assets/6900ce50-4435-4185-85f7-2075c131bef3)
 
 
 1. **OMNICRACK30K: A Benchmark for Crack Segmentation and the Reasonable Effectiveness of Transfer Learning**, *CVPR W*, 2024.  [[Paper Link](https://openaccess.thecvf.com/content/CVPR2024W/VAND/papers/Benz_OmniCrack30k_A_Benchmark_for_Crack_Segmentation_and_the_Reasonable_Effectiveness_CVPRW_2024_paper.pdf)]
 
    - The OMNICRACK30K dataset forms the first large-scale, systematic, and thorough approach to provide a sustainable basis for tracking methodical progress in the field of crack segmentation. It contains 30k samples from over 20 datasets summing up to 9 billion pixels in total. Featuring materials as diverse as asphalt, ceramic, con- crete, masonry, and steel, it paves the road towards univer- sal crack segmentation, a currently under-explored topic.
-   - <img width="1197" alt="Screenshot 2025-04-27 at 10 01 26 PM" src="https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/acc42f89-451b-4cd5-a3b9-3997b5f15175">
+   - ![image](https://github.com/user-attachments/assets/f4fdd548-a316-4773-9f8f-00d56da7aef0)
+
    - Tab. 4 shows the results of the benchmarking approaches on the test subsets of OMNICRACK30K. Note that only the general models are trained on OMNICRACK30K, while the crack-specific approaches used their specific datasets.
-   - ![Screenshot 2025-05-19 at 12 25 43 PM](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/0e3e3a00-9bcc-486f-83b4-e2fb03266075)
+   - ![image](https://github.com/user-attachments/assets/60763bbb-f600-43c8-a638-b342461ca19a)
 
 
+1. **Synthetic data augmentation for pixel-wise steel fatigue crack identification using fully convolutional networks**, *Smart Structures and Systems*, 2021.  [[Paper Link](https://www.researchgate.net/profile/Guanghao-Zhai/publication/359985481_Synthetic_data_augmentation_for_pixel-wise_steel_fatigue_crack_identification_using_fully_convolutional_networks/links/6259f2b3a279ec5dd7fa569f/Synthetic-data-augmentation-for-pixel-wise-steel-fatigue-crack-identification-using-fully-convolutional-networks.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9)]
+
+   - the use of synthetic data is proposed in this article to augment real-world datasets used for training neural networks that can identify fatigue cracks in steel structures. First, random textures representing the surface of steel structures with fatigue cracks are created and mapped onto a 3D graphics model. Subsequently, this model is used to generate synthetic images for various lighting conditions and camera angles
+   - ![Screenshot 2025-05-27 at 9 45 28 AM](https://github.com/user-attachments/assets/f5ab42d1-b7be-410c-a868-a402c2412203)
 
 
 ## Learning Paradigms
