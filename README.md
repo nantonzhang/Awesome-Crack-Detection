@@ -111,6 +111,77 @@ template:
    - An intensive validation is performed on both synthetic and real images (from five different acquisition systems), with comparisons to five existing methods.
    - ![Screenshot 2025-05-27 at 10 14 40 AM](https://github.com/user-attachments/assets/6c9ee3fc-cb05-421c-bf18-d6c2c4c0edc1)
 
+1. **Road crack detection using deep convolutional neural network**, *ICIP*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7533052)]
+
+   - Data set with more than 500 pavement pictures of size 3264×2448 are collected at the Temple University campus by using a smart phone as the data sensor. Each image is annotated by multiple annotators.
+   - ![Screenshot 2025-05-27 at 1 39 25 PM](https://github.com/user-attachments/assets/ba2886b4-ebe9-45ad-8528-ccb2aeb1f2ec)
+
+1. **Automatic Road Crack Detection Using Random Structured Forests**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7471507)]
+
+   - We propose an annotated road crack dataset called CFD. This dataset is composed of 118 images, which can generally reflect urban road surface condition in Beijing, China. Each image has hand labeled ground truth contours. All the images are taken by an iPhone5 with focus of 4mm, aperture of f/2.4 and exposure time of 1/134s. The width of the images ranges from 1 to 3 mm. 
+   - ![Screenshot 2025-05-27 at 1 26 56 PM](https://github.com/user-attachments/assets/c6ea6a6c-7697-49dc-842a-9271e22e5adf)
+
+1. **DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection**, *IEEE Transactions on Image Processing*, 2018.  [[Paper Link](https://ieeexplore.ieee.org/document/8517148)]
+
+   - CRKWH100
+   - CrackLS315: Images in this dataset are captured under laser illumination, which makes them more different with the training images than that in CRKWH100
+   - Stone331
+   - ![zou11-2878966-small](https://github.com/user-attachments/assets/1997887a-0b56-4839-899c-22bf6398a6b9)
+
+1. **Structural Crack Detection from Benchmark Data Sets Using Pruned Fully Convolutional Networks**, *Journal of Structural Engineering*, 2021.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003140)]
+
+   - In this study, a benchmark data set called a bridge crack library (BCL) containing 11,000 pixel-wise labeled images with 256×256 resolution was established, which has 5,769 nonsteel crack images, 2,036 steel crack images, 3,195 noise images, and their labels. It is aimed at crack detection on multiple structural materials including masonry, concrete, and steel. The raw images were collected by multiple cameras from more than 50 in-service bridges during a period of 2 years.
+   - ![Screenshot 2025-05-27 at 12 31 44 PM](https://github.com/user-attachments/assets/201d1b24-dbf2-4055-a96d-5f2cb2c85d42)
+   - ![Screenshot 2025-05-27 at 12 32 03 PM](https://github.com/user-attachments/assets/cb8cc80f-5779-4fb5-867b-b68b79b8a00e)
+
+
+
+1. **Ceramic Cracks Segmentation with Deep Learning**, *applied sciences*, 2021.  [[Paper Link](https://www.mdpi.com/2076-3417/11/13/6017)]
+
+   - This work focuses on automated optical inspection to find faults in ceramic tiles performing the segmentation of cracks in ceramic images using deep learning to segment these defects. We propose an architecture for segmenting cracks in facades with Deep Learning that includes an image pre-processing step. We also propose the Ceramic Crack Database, a set of images to segment defects in ceramic tiles.
+   - ![applsci-11-06017-g003-550](https://github.com/user-attachments/assets/79addba8-4e54-4097-8a72-6ce23a832d1f)
+
+
+1. **Development of Extendable Open-Source Structural Inspection Datasets**, *Journal of Computing in Civil Engineering*, 2022.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0001045)]
+
+   - we set out to acquire bridge inspection data by selectively extracting candidate images from hundreds of thousands of bridge inspection reports from the Virginia Department of Transportation. Using this rich source of diverse data, we refined our collected data to develop four high-quality, easily extendable, publicly accessible datasets, tested with state-of-the-art models to support typical bridge inspection tasks. The four datasets: labeled cracks in the wild, 3,817 image sets of semantically segmented concrete cracks taken from diverse scenery; 3,817 image sets of semantically segmented structural inspection materials (concrete, steel, metal decking)
+   - ![Screenshot 2025-05-27 at 1 34 58 PM](https://github.com/user-attachments/assets/173cc165-04dc-49bb-8da9-ed4e2ac4140d)
+   - ![figure2](https://github.com/user-attachments/assets/e929003d-0be0-4b21-8f99-700d8d0b1118)
+
+
+
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+
+   - Keypoint1
+   - Keypoint2
+
+
 
 1. **CrackSeg9k: A Collection and Benchmark for Crack Segmentation Datasets and Frameworks**, *ECCV W*, 2022.  [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-25082-8_12)]
 
