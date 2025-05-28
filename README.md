@@ -28,6 +28,7 @@ template:
 
 ### Domain Specific
 
+
 1. **Crack detection using image processing: A critical review and analysis**, *Alexandria Engineering Journal*, 2018.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S1110016817300236)]
 
    - Literature presents different techniques to automatically identify the crack and its depth using image processing techniques. In this research, a detailed survey is conducted to identify the research challenges and the achievements till in this field. Accordingly, 50 research papers are taken related to crack detection, and those research papers are reviewed. Based on the review, analysis is provided based on the image processing techniques, objectives, accuracy level, error level, and the image data sets. Finally, we present the various research issues which can be useful for the researchers to accomplish further research on the crack detection.
@@ -106,6 +107,11 @@ template:
 
 ## Datasets
 
+1. **CrackIT — An image processing toolbox for crack detection and characterization**, *ICIP*, 2014.  [[Paper Link](https://ieeexplore.ieee.org/document/7025160)]
+
+   - A sample database of 84 pavement surface images taken during a traditional road survey is provided with the toolbox, since no pavement image databases are publicly available for crack detection and characterization evaluation purposes.
+   - ![7025160-fig-2-source-small](https://github.com/user-attachments/assets/958295eb-d2d0-4724-9152-896470ab8dd9)
+
 1. **AEL: Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7572082)]
 
    - This paper proposes a new algorithm for automatic crack detection from 2D pavement images. It strongly relies on the localization of minimal paths within each image, a path being a series of neighboring pixels and its score being the sum of their intensities. The originality of the approach stems from the proposed way to select a set of minimal paths and the two postprocessing steps introduced to improve the quality of the detection.
@@ -129,6 +135,17 @@ template:
    - CrackLS315: Images in this dataset are captured under laser illumination, which makes them more different with the training images than that in CRKWH100
    - Stone331
    - ![zou11-2878966-small](https://github.com/user-attachments/assets/1997887a-0b56-4839-899c-22bf6398a6b9)
+
+1. **FCN: Automatic Pixel-Level Crack Detection and Measurement Using Fully Convolutional Network**, *Computer-Aided Civil and Infrastructure Engineering*, 2018.  [[Paper Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12412)]
+
+   - To train the FCN model, the authors collected more than 800 images. The width of cracks varies from one pixel to 100 pixels, the shape of which is hard to recognize at image level. To ensure the variability, historical cracks from internet and new cracks from existing buildings in Harbin, China, are involved. Not only pavement cracks, but also cracks on concrete walls are contained and saved in JPG format. Cracks in these images are taken at different distances depending on their sizes, which leads to different levels of resolutions, ranging from 72 dpi to 300 dpi.
+   - ![001](https://github.com/user-attachments/assets/d400e5fd-fc39-4523-a7ff-c9bcbeb65b37)
+
+
+1. **KolektorSDD: Segmentation-based deep-learning approach for surface-defect detection**, *Journal of Intelligent Manufacturing*, 2019.  [[Paper Link](https://link.springer.com/article/10.1007/s10845-019-01476-x)]
+
+   - An extensive evaluation of the proposed method is performed on a novel, real-world dataset termed Kolektor Surface-Defect Dataset (KolektorSDD). The dataset represents a real-world problem of surface-defect detection for an industrial semi-finished product where the number of defective items available for the training is limited.
+   - ![Screenshot 2025-05-28 at 12 01 30 PM](https://github.com/user-attachments/assets/5332d35e-168f-4cfd-9ce4-8d725586fc38)
 
 1. **BCL: Structural Crack Detection from Benchmark Data Sets Using Pruned Fully Convolutional Networks**, *Journal of Structural Engineering*, 2021.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003140)]
 
