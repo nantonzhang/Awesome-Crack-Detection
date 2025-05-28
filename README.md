@@ -89,10 +89,11 @@ template:
    - This study has identified the bigger picture of DL methods for crack identification in asphalt pavement. The authors evaluated several DL-based crack identification algorithms from the literature, such as crack classification, crack object detection, pixel-level crack segmentation, generative adversarial networks (GANs) for crack segmentation, and crack identification using unsupervised learning. Moreover, 26 DL-based crack detection models (25 supervised learning models and one unsupervised learning model) were analysed on the same dataset to test the performance of each model using consistent assessment metrics. The testing results suggest that ResNet and DenseNet are the best options for crack classification, while Faster R-CNN should be used for crack object detection and pix2pix is suggested for crack segmentation. It is also recommended that semi-supervised and unsupervised learning be further studied to efficiently detect cracks in an asphalt pavement.
    - Keypoint2
 
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+1. **Visual Concrete Bridge Defect Classification and Detection Using Deep Learning: A Systematic Review**, *IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*, 2024.  [[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10452281)]
 
-   - Keypoint1
-   - Keypoint2
+   - Our aim in this survey is to study the recent progress of vision-based concrete bridge defect classification and detection in the deep learning era. Our review encompasses major aspects underlying typical frameworks, which include concrete defect taxonomy, public datasets and evaluation metrics.
+   - <img width="1079" alt="Screenshot 2025-05-27 at 10 44 54 PM" src="https://github.com/user-attachments/assets/bfe18adc-b098-4c78-b72d-ac091f12b05a" />
+
 
 1. **Title**, *Publish*, Year.  [[Paper Link](link)]
 
@@ -105,30 +106,31 @@ template:
 
 ## Datasets
 
-1. **Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7572082)]
+1. **AEL: Automatic Crack Detection on Two-Dimensional Pavement Images: An Algorithm Based on Minimal Path Selection**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7572082)]
 
    - This paper proposes a new algorithm for automatic crack detection from 2D pavement images. It strongly relies on the localization of minimal paths within each image, a path being a series of neighboring pixels and its score being the sum of their intensities. The originality of the approach stems from the proposed way to select a set of minimal paths and the two postprocessing steps introduced to improve the quality of the detection.
    - An intensive validation is performed on both synthetic and real images (from five different acquisition systems), with comparisons to five existing methods.
    - ![Screenshot 2025-05-27 at 10 14 40 AM](https://github.com/user-attachments/assets/6c9ee3fc-cb05-421c-bf18-d6c2c4c0edc1)
 
-1. **Road crack detection using deep convolutional neural network**, *ICIP*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7533052)]
+1. **CRACK500: Road crack detection using deep convolutional neural network**, *ICIP*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7533052)]
 
    - Data set with more than 500 pavement pictures of size 3264×2448 are collected at the Temple University campus by using a smart phone as the data sensor. Each image is annotated by multiple annotators.
    - ![Screenshot 2025-05-27 at 1 39 25 PM](https://github.com/user-attachments/assets/ba2886b4-ebe9-45ad-8528-ccb2aeb1f2ec)
 
-1. **Automatic Road Crack Detection Using Random Structured Forests**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7471507)]
+1. **CFD: Automatic Road Crack Detection Using Random Structured Forests**, *IEEE Transactions on Intelligent Transportation Systems*, 2016.  [[Paper Link](https://ieeexplore.ieee.org/document/7471507)]
 
    - We propose an annotated road crack dataset called CFD. This dataset is composed of 118 images, which can generally reflect urban road surface condition in Beijing, China. Each image has hand labeled ground truth contours. All the images are taken by an iPhone5 with focus of 4mm, aperture of f/2.4 and exposure time of 1/134s. The width of the images ranges from 1 to 3 mm. 
    - ![Screenshot 2025-05-27 at 1 26 56 PM](https://github.com/user-attachments/assets/c6ea6a6c-7697-49dc-842a-9271e22e5adf)
 
-1. **DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection**, *IEEE Transactions on Image Processing*, 2018.  [[Paper Link](https://ieeexplore.ieee.org/document/8517148)]
+1. **CRKWH100, CrackTree260, CrackLS315, Stone331: DeepCrack: Learning Hierarchical Convolutional Features for Crack Detection**, *IEEE Transactions on Image Processing*, 2018.  [[Paper Link](https://ieeexplore.ieee.org/document/8517148)]
 
    - CRKWH100
+   - CrackTree260
    - CrackLS315: Images in this dataset are captured under laser illumination, which makes them more different with the training images than that in CRKWH100
    - Stone331
    - ![zou11-2878966-small](https://github.com/user-attachments/assets/1997887a-0b56-4839-899c-22bf6398a6b9)
 
-1. **Structural Crack Detection from Benchmark Data Sets Using Pruned Fully Convolutional Networks**, *Journal of Structural Engineering*, 2021.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003140)]
+1. **BCL: Structural Crack Detection from Benchmark Data Sets Using Pruned Fully Convolutional Networks**, *Journal of Structural Engineering*, 2021.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29ST.1943-541X.0003140)]
 
    - In this study, a benchmark data set called a bridge crack library (BCL) containing 11,000 pixel-wise labeled images with 256×256 resolution was established, which has 5,769 nonsteel crack images, 2,036 steel crack images, 3,195 noise images, and their labels. It is aimed at crack detection on multiple structural materials including masonry, concrete, and steel. The raw images were collected by multiple cameras from more than 50 in-service bridges during a period of 2 years.
    - ![Screenshot 2025-05-27 at 12 31 44 PM](https://github.com/user-attachments/assets/201d1b24-dbf2-4055-a96d-5f2cb2c85d42)
@@ -136,24 +138,91 @@ template:
 
 
 
-1. **Ceramic Cracks Segmentation with Deep Learning**, *applied sciences*, 2021.  [[Paper Link](https://www.mdpi.com/2076-3417/11/13/6017)]
+1. **Ceramic: Ceramic Cracks Segmentation with Deep Learning**, *applied sciences*, 2021.  [[Paper Link](https://www.mdpi.com/2076-3417/11/13/6017)]
 
    - This work focuses on automated optical inspection to find faults in ceramic tiles performing the segmentation of cracks in ceramic images using deep learning to segment these defects. We propose an architecture for segmenting cracks in facades with Deep Learning that includes an image pre-processing step. We also propose the Ceramic Crack Database, a set of images to segment defects in ceramic tiles.
    - ![applsci-11-06017-g003-550](https://github.com/user-attachments/assets/79addba8-4e54-4097-8a72-6ce23a832d1f)
 
 
-1. **Development of Extendable Open-Source Structural Inspection Datasets**, *Journal of Computing in Civil Engineering*, 2022.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0001045)]
+1. **Conglomerate: Development of Extendable Open-Source Structural Inspection Datasets**, *Journal of Computing in Civil Engineering*, 2022.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0001045)]
 
    - we set out to acquire bridge inspection data by selectively extracting candidate images from hundreds of thousands of bridge inspection reports from the Virginia Department of Transportation. Using this rich source of diverse data, we refined our collected data to develop four high-quality, easily extendable, publicly accessible datasets, tested with state-of-the-art models to support typical bridge inspection tasks. The four datasets: labeled cracks in the wild, 3,817 image sets of semantically segmented concrete cracks taken from diverse scenery; 3,817 image sets of semantically segmented structural inspection materials (concrete, steel, metal decking)
-   - ![Screenshot 2025-05-27 at 1 34 58 PM](https://github.com/user-attachments/assets/173cc165-04dc-49bb-8da9-ed4e2ac4140d)
+   - The conglomerate dataset comprises 10,995 images that have been merged from CFD (Shi et al. 2016), Crack500 (Yang et al. 2020), CrackTree200 (Zou et al. 2012), DeepCrack (Liu et al. 2019), Eugen Miller (Yang et al. 2020), GAPs (Eisenbach et al. 2017), Rissbilder (Yang et al. 2020), noncrack (Dorafshan et al. 2018), and Volker (Yang et al. 2020). The dataset details are summarized in Table
+   - <img width="911" alt="Screenshot 2025-05-27 at 10 00 32 PM" src="https://github.com/user-attachments/assets/6a063b7b-7112-4218-bf9f-3b6aaceef6ef" />
    - ![figure2](https://github.com/user-attachments/assets/e929003d-0be0-4b21-8f99-700d8d0b1118)
 
 
+1. **CrackTree200: Automatic crack detection from pavement images**, *Pattern Recognition Letters*, 2012.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0167865511003795)]
+
+   - We collect a set of 206 pavement images with various kinds of cracks. All these images have a size of 800 × 600, and many of them suffer from the problems of shadows, occlusions, low contrast, noise, etc.
+   - ![1-s2 0-S0167865511003795-gr9](https://github.com/user-attachments/assets/b3fc41cb-8a77-465e-9dbf-764cd26a8c77)
 
 
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+1. **CrSpEE: DETECTING CRACKS AND SPALLING AUTOMATICALLY IN EXTREME EVENTS BY END-TO-END DEEP LEARNING FRAMEWORKS**, *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, 2021.  [[Paper Link](https://par.nsf.gov/servlets/purl/10284486)]
 
-   - Keypoint1
+   - A total of 2,229 images were annotated, for cracking and spalling
+   - <img width="550" alt="Screenshot 2025-05-27 at 9 21 34 PM" src="https://github.com/user-attachments/assets/1cb53f72-12cf-4251-bc8e-6affde1454f6" />
+
+
+1. **CSSC: Deep Concrete Inspection Using Unmanned Aerial Vehicle Towards CSSC Database**, *IROS*, 2017.  [[Paper Link](https://www.researchgate.net/profile/Liang-Yang-52/publication/319333841_Deep_Concrete_Inspection_Using_Unmanned_Aerial_Vehicle_Towards_CSSC_Database/links/59e0e27a458515393d4ed035/Deep-Concrete-Inspection-Using-Unmanned-Aerial-Vehicle-Towards-CSSC-Database.pdf)]
+
+   - This paper presents an automated approach using Unmanned Aerial Vehicle(UAV) and towards a Concrete Structure Spalling and Crack database (CSSC), which is by far the first released database for deep learning inspection
+   - <img width="592" alt="Screenshot 2025-05-27 at 9 29 41 PM" src="https://github.com/user-attachments/assets/8ebd84fa-3ff0-4da8-b71b-569a7d32a4a4" />
+
+
+1. **DeepCrack: DeepCrack: A deep hierarchical feature learning architecture for crack segmentation**, *Neurocomputing*, 2019.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0925231219300566)]
+
+   - A benchmark dataset consisting of 537 images with manual annotation maps are built
+   - ![1-s2 0-S0925231219300566-gr5](https://github.com/user-attachments/assets/4f4dca5d-4c68-4eef-88b4-40de1ea5b82b)
+
+
+
+1. **DIC: Comparison of crack segmentation using digital image correlation measurements and deep learning**, *Construction and Building Materials*, 2020.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S095006182032479X)]
+
+   - For the training and validation data (dataset A), 17 full-size laboratory images were selected from the specimens RSC2-3, RSD1, RSD2, RSM2, SC1-7, RS1-3. The images taken during the experimental campaigns illustrate the state of the plastered wall surfaces under different loading levels and support conditions 
+   - For the test data (dataset B), three full-size images were selected from specimens RS4 and RS6 at different loading levels (see Fig. 5). To obtain a fair model, no images taken from specimens RS4 and RS6 were included in the training/validation data (dataset A)
+   - ![1-s2 0-S095006182032479X-gr5](https://github.com/user-attachments/assets/e49a812b-a8fe-4ba6-a18e-fbbceaa1e868)
+
+
+1. **GAPS384: Feature Pyramid and Hierarchical Boosting Network for Pavement Crack Detection**, *IEEE Transactions on Intelligent Transportation Systems*, 2019.  [[Paper Link](https://ieeexplore.ieee.org/document/8694955)]
+
+   - we manually select 384 images from the GAPs dataset, which only includes crack class of distress, and conduct pixel-wise annotation. This pixel-wise annotated crack dataset is named as GAPs384
+   - ![yang9-2910595-small](https://github.com/user-attachments/assets/8a127702-dc35-4a43-9da9-dbb79fee94ee)
+
+
+1. **Khanh11k: crack-segmentation**, *github*, 2019.  [[Paper Link](https://github.com/khanhha/crack_segmentation)]
+
+   - It contains around 11.200 images that are merged from 12 available crack segmentation datasets.
+   - <img width="742" alt="Screenshot 2025-05-27 at 9 55 02 PM" src="https://github.com/user-attachments/assets/849ead6c-5e13-488a-9767-accc501a4779" />
+
+  
+1. **LCW: Development of Extendable Open-Source Structural Inspection Datasets**, *Journal of Computing in Civil Engineering*, 2022.  [[Paper Link](https://ascelibrary.org/doi/full/10.1061/%28ASCE%29CP.1943-5487.0001045#t1)]
+
+   - The LCW dataset comprised images that were taken from VDOT Bridge Inspection Reports, showing a more global scene, rather than focused completely on concrete
+   - ![figure4-2](https://github.com/user-attachments/assets/c8548e21-44e3-4895-98dc-6d70ffff5e44)
+
+
+1. **Masonry: Automatic crack classification and segmentation on masonry surfaces using convolutional neural networks and transfer learning**, *Automation in Construction*, 2021.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580521000571)]
+
+   - A dataset with photos from masonry structures is produced containing complex backgrounds and various crack types and sizes.
+   - ![1-s2 0-S0926580521000571-gr3](https://github.com/user-attachments/assets/b84b3bef-a808-42a7-a771-8e0244627f73)
+
+
+1. **S2DS: Image-Based Detection of Structural Defects Using Hierarchical Multi-scale Attention**, *DAGM GCPR*, 2022.  [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-16788-1_21)]
+
+   - The dataset of 743 images covering crack, spalling, corrosion, efflorescence, vegetation, and control point is unprecedented in terms of quantity and realism
+   - <img width="743" alt="Screenshot 2025-05-27 at 10 11 46 PM" src="https://github.com/user-attachments/assets/6d1642b6-c2b7-41cc-b1b7-08142b16c5ea" />
+
+
+1. **TopoDS: TOPO-Loss for continuity-preserving crack detection using deep learning**, *Construction and Building Materials*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950061822019250)]
+
+   - New training dataset of real-world post-earthquake building images containing labeled cracks
+   - ![1-s2 0-S0950061822019250-gr4](https://github.com/user-attachments/assets/d2e1f3ea-1641-48d8-bd4d-894d39d32f1e)
+
+
+1. **UAV75: Crack Segmentation on UAS-based Imagery using Transfer Learning**, *International Conference on Image and Vision Computing New Zealand (IVCNZ)*, 2019.  [[Paper Link](https://ieeexplore.ieee.org/document/8960998)]
+
+   - The dataset called UAV75, cf. Table I, contains 75 manually annotated images of size 512×512 pix with pixel-wise labels. The images were manually split into training, validation, and test dataset, each subset covering the perceptible variations in crack and planking patterns.
    - Keypoint2
 
 1. **Title**, *Publish*, Year.  [[Paper Link](link)]
@@ -161,25 +230,7 @@ template:
    - Keypoint1
    - Keypoint2
 
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
 
-   - Keypoint1
-   - Keypoint2
-
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
-
-   - Keypoint1
-   - Keypoint2
-
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
-
-   - Keypoint1
-   - Keypoint2
-
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
-
-   - Keypoint1
-   - Keypoint2
 
 
 
