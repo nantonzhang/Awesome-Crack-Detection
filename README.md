@@ -32,33 +32,49 @@ template:
 1. **Crack detection using image processing: A critical review and analysis**, *Alexandria Engineering Journal*, 2018.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S1110016817300236)]
 
    - Literature presents different techniques to automatically identify the crack and its depth using image processing techniques. In this research, a detailed survey is conducted to identify the research challenges and the achievements till in this field. Accordingly, 50 research papers are taken related to crack detection, and those research papers are reviewed. Based on the review, analysis is provided based on the image processing techniques, objectives, accuracy level, error level, and the image data sets. Finally, we present the various research issues which can be useful for the researchers to accomplish further research on the crack detection.
-   - ![1-s2 0-S1110016817300236-gr1](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/9d5f011c-4ef9-403d-9fd7-22314fb1a42f)
+   - ![image](https://github.com/user-attachments/assets/09b9bb7f-3eb7-4bde-8a7b-5694617454b9)
+
+1. **Pavement crack image acquisition methods and crack extraction algorithms: A review**, *Journal of Traffic and Transportation Engineering*, 2019.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S2095756419303010)]
+
+   - in order to know the developing history and the advanced research, we have collected a number of literature in this research topic for summarizing the research artwork status, and giving a review of the pavement crack image acquisition methods and 2D crack extraction algorithms. Also, for image acquisition methods and pavement crack image segmentation, more detailed comparison and discussions are made.
+   - ![1-s2 0-S2095756419303010-gr3](https://github.com/user-attachments/assets/75a22047-bfbc-40cd-8296-88c308918241)
+
+
+1. **Review of Pavement Defect Detection Methods**, *IEEE Access*, 2020.  [[Paper Link](https://ieeexplore.ieee.org/document/8960347)]
+
+   - This paper reviews the three major types of methods used in road cracks detection: image processing, machine learning and 3D imaging based methods.
+   - In this work, we review and compare the deep learning neural networks proposed in crack detection in three ways, classification based, object detection based and segmentation based.
+   - ![Screenshot 2025-05-30 at 7 55 33 PM](https://github.com/user-attachments/assets/93c3829c-7b50-46e8-975b-e19b49dc056c)
 
 
 1. **Machine learning for crack detection: Review and model performance comparison**, *Journal of Computing in Civil Engineering*, 2020.  [[Paper Link](https://ascelibrary.org/doi/abs/10.1061/(ASCE)CP.1943-5487.0000918)]
 
    - In this paper, the authors organize and provide up-to-date information on on ML-based crack detection algorithms for researchers to more efficiently seek potential focus and direction. The authors first reviewed 68 ML-based crack detection methods to identify the current trend of development, pixel-level crack segmentation. The authors then conducted a performance evaluation on 8 ML-based crack segmentation models using consistent evaluation metrics and three-dimensional (3D) pavement images with diverse conditions to identify remaining challenges and potential directions for future development. 
-   - <img width="468" alt="Screenshot 2025-04-30 at 4 46 53 PM" src="https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/ec01b3d4-e6af-473d-bb4c-7d8c952fcb3b">
+   - ![image](https://github.com/user-attachments/assets/d261d4ae-8d1b-48bf-a7b1-4b6ea8439a91)
+
 
 
 1. **Image-Based Crack Detection Methods: A Review**, *Infrastructures*, 2021.  [[Paper Link](https://www.mdpi.com/2412-3811/6/8/115)]
 
    - Using image processing techniques, the captured or scanned images of the infrastructure parts can be analyzed to identify any possible defects. Apart from image processing, machine learning methods are being increasingly applied to ensure better performance outcomes and robustness in crack detection. This paper provides a review of image-based crack detection techniques which implement image processing and/or machine learning. A total of 30 research articles have been collected for the review which is published in top tier journals and conferences in the past decade. A comprehensive analysis and comparison of these methods are performed to highlight the most promising automated approaches for crack detection
-   - ![infrastructures-06-00115-g003-550](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/7a4fa8b2-34f5-4f44-9871-aafd497a9e71)
+   - ![image](https://github.com/user-attachments/assets/d169b8c9-6a77-4bda-b9c7-9c13764835cc)
+
 
 
 1. **Review on computer vision-based crack detection and quantification methodologies for civil structures**, *Construction and Building Materials*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S095006182202894X)]
 
    - this review provides a comprehensive overview of state-of-the-art image-based crack analysis under various conditions in both qualitative and quantitative aspects, particularly focusing on image processing and deep learning-based methodologies from image-level detection to pixel-level segmentation and quantification.
    - The key challenges and research gaps are also discussed as follows, which indicate the importance of future research: (1) developing data model methodologies to resolve the difficulties due to the image data deficiency; (2) building a learning-based model capable of processing data with complex backgrounds; (3) enhancing the scene generalisation on different detection tasks; (4) establishing a lightweight mechanism for real-time crack analysis; (5) constructing learning-based systems that comprehend the local and global contexts during crack evaluation; (6) developing a semi-supervised mechanism for more information capturing and (7) establishing attention-based models for enhanced segmentation performance.
-   - ![1-s2 0-S095006182202894X-gr2](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/88cac8de-5ba3-4fdf-9a31-d4e8b5c9c2cc)
+   - ![image](https://github.com/user-attachments/assets/356c232f-4404-4348-83d5-6e1f2c2374fa)
+
 
 
 1. **Computer vision framework for crack detection of civil infrastructure—A review**, *Engineering Applications of Artificial Intelligence*, 2023.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0952197622004687)]
 
    - This paper provides a comprehensive review of the research progress and prospects in computer vision frameworks for crack detection of civil infrastructures from multiple materials, including asphalt, concrete, and metal-like materials. The review encompasses major components of typical frameworks, i.e., data acquisition techniques, publicly available datasets, detection algorithms, and evaluation metrics.
    - In particular, we provide a taxonomy of detection algorithms with a detailed discussion of the advantages, limitations, and application scenarios of the methods in each category, as well as the relationships between methods of different categories. We also discuss unsolved issues and key challenges in crack detection that could drive future research directions.
-   - ![1-s2 0-S0952197622004687-gr1](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/0d10f26b-fe0d-46c3-a792-2db0d8d63cae)
+   - ![image](https://github.com/user-attachments/assets/4b61f29b-2854-4fef-8433-d905b12e6c1c)
+
 
 
 1. **A Review of Computer Vision-Based Crack Detection Methods in Civil Infrastructure: Progress and Challenges**, *Remote Sens*, 2024.  [[Paper Link](https://www.mdpi.com/2072-4292/16/16/2910)]
@@ -70,25 +86,29 @@ template:
 1. **A critical review and comparative study on image segmentation-based techniques for pavement crack detection**, *Construction and Building Materials*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950061821038940)]
 
    - This literature review establishes the history of development and interpretation of existing studies before conducting new research; and focuses heavily on three major types of approaches in the field of image segmentation, namely thresholding-based, edge-based, and data driven-based methods. With comparison and analysis of various image segmentation algorithms, this research provides valuable information for researchers working on enhanced segmentation strategies that potentially yield a fully automated distress detection process for pavement images with varying conditions.
-   - <img width="1136" alt="Screenshot 2025-04-30 at 5 59 55 PM" src="https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/1bc971f6-1854-4a9c-b0a0-4e9b0a9a55d8">
+   - ![image](https://github.com/user-attachments/assets/26d7d708-3120-47e1-bc44-69b2acf8efe5)
+
 
 
 1. **A review of deep learning methods for pixel-level crack detection**, *Journal of Traffic and Transportation Engineering (English Edition)*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S2095756422001027#sec3)]
 
    - we present a comprehensive thematic survey of DL-based CIS techniques. Our review offers several contributions to the CIS area. First, more than 40 papers of journal or top conference most published in the last three years are identified and collected based on the systematic literature review method. Second, according to the backbone network architecture of the models proposed in them, they are grouped into 10 topics: FCN, U-Net, encoder-decoder model, multi-scale, attention mechanism, transformer, two-stage detection, multi-modal fusion, unsupervised learning and weakly supervised learning, to be reviewed. Meanwhile, our survey focuses on discussing strengths and limitations of the models in each topic so as to reveal the latest research progress in the CIS field. Third, publicly accessible data sets, evaluation metrics, and loss functions that can be used for pixel-level crack detection are systematically introduced and summarized to facilitate researchers to select suitable components according to their own research tasks. Finally, we discuss six common problems and existing solutions to them in the field of DL-based CIS, and then suggest eight possible future research directions in this field.
-   - ![1-s2 0-S2095756422001027-gr1](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/8974c8f3-e080-4516-8094-e722d2ea933d)
+   - ![image](https://github.com/user-attachments/assets/b5b83e40-5253-4572-b37c-06b056142478)
+
 
 
 1. **A Comprehensive Review of Deep Learning-Based Crack Detection Approaches**, *Appl. Sci.*, 2022.  [[Paper Link](https://www.mdpi.com/2076-3417/12/3/1374)]
 
    - a comprehensive literature review of deep learning-based crack detection studies and the contributions they have made to the field is presented. The studies are categorised according to the computer vision aspect and at deeper levels to facilitate exploring the studies that utilised similar approaches to address the crack detection problem. Moreover, the authors perform a comparison between the studies which use the same publicly available data sets, in order to find the most promising crack detection approaches. Critical future directions for research are proposed, based on these reviewed studies as well as on trends and developments in areas similar to the crack detection area.
-   - ![applsci-12-01374-g003](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/f736c011-8eac-49c1-869a-a35b312c9637)
+   - ![image](https://github.com/user-attachments/assets/4a9075ec-6914-488f-8470-666a316feb49)
+
 
 
 1. **Deep Learning-Based Crack Detection: A Survey**, *International Journal of Pavement Research and Technology *, 2022.  [[Paper Link](https://link.springer.com/article/10.1007/s42947-022-00172-z)]
 
    - This study has identified the bigger picture of DL methods for crack identification in asphalt pavement. The authors evaluated several DL-based crack identification algorithms from the literature, such as crack classification, crack object detection, pixel-level crack segmentation, generative adversarial networks (GANs) for crack segmentation, and crack identification using unsupervised learning. Moreover, 26 DL-based crack detection models (25 supervised learning models and one unsupervised learning model) were analysed on the same dataset to test the performance of each model using consistent assessment metrics. The testing results suggest that ResNet and DenseNet are the best options for crack classification, while Faster R-CNN should be used for crack object detection and pix2pix is suggested for crack segmentation. It is also recommended that semi-supervised and unsupervised learning be further studied to efficiently detect cracks in an asphalt pavement.
-   - Keypoint2
+   - ![Screenshot 2025-05-30 at 6 38 43 PM](https://github.com/user-attachments/assets/e5e8a90e-b9cd-4f36-a878-b5c31e46f6f0)
+
 
 1. **Visual Concrete Bridge Defect Classification and Detection Using Deep Learning: A Systematic Review**, *IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*, 2024.  [[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10452281)]
 
