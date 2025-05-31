@@ -80,7 +80,8 @@ template:
 1. **A Review of Computer Vision-Based Crack Detection Methods in Civil Infrastructure: Progress and Challenges**, *Remote Sens*, 2024.  [[Paper Link](https://www.mdpi.com/2072-4292/16/16/2910)]
 
    - Based on the main research methods of the 120 documents, we classify them into three crack detection methods: fusion of traditional methods and deep learning, multimodal data fusion, and semantic image understanding. We examine the application characteristics of each method in crack detection and discuss its advantages, challenges, and future development trends.
-   - <img width="580" alt="Screenshot 2025-04-30 at 5 05 54 PM" src="https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/2d19e3d5-9166-409e-ba26-70f2b42a91a1">
+   - ![image](https://github.com/user-attachments/assets/0f3e454f-e6e7-43c3-b904-be6d611b8116)
+
 
 
 1. **A critical review and comparative study on image segmentation-based techniques for pavement crack detection**, *Construction and Building Materials*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950061821038940)]
