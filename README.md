@@ -292,6 +292,11 @@ template:
    - the use of synthetic data is proposed in this article to augment real-world datasets used for training neural networks that can identify fatigue cracks in steel structures. First, random textures representing the surface of steel structures with fatigue cracks are created and mapped onto a 3D graphics model. Subsequently, this model is used to generate synthetic images for various lighting conditions and camera angles
    - ![Screenshot 2025-05-27 at 9 45 28 AM](https://github.com/user-attachments/assets/f5ab42d1-b7be-410c-a868-a402c2412203)
 
+1. **Syncrack: Improving Pavement and Concrete Crack Detection through Synthetic Data Generation**, *VISAPP*, 2022.  [[Paper Link](https://www.scitepress.org/Papers/2022/108373/108373.pdf)]
+
+   - manual annotations tend to be inaccurate, particularly at pixel-accurate level. The learning bias introduced by this inaccuracy hinders pixel-accurate crack detection. In this paper we propose a novel tool aimed for synthetic image generation with accurate crack labels – Syncrack. This parametrizable tool also provides a method to introduce controlled noise to annotations, emulating human inaccuracy
+   - <img width="1149" alt="Screenshot 2025-06-01 at 12 04 37 PM" src="https://github.com/user-attachments/assets/1e1923c4-ea30-4a6e-9b57-d6f1f87bdc23" />
+
 
 ## Learning Paradigms
 
