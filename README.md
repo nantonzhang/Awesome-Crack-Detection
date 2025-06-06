@@ -377,7 +377,8 @@ template:
    - Proposes a UAV-based approach for accurate detection and quantification of concrete cracks without reference markers  
    - Introduces an Independent Boundary Refinement Transformer (IBR-Former) for crack segmentation from UAV-captured images  
    - Achieves quantification of cracks with widths less than 0.2 mm, meeting civil engineering code requirements
-   - ![1-s2 0-S0926580523001899-gr4](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/fa15e71f-5483-467a-85d9-03ce94064463)
+   - ![1-s2 0-S0926580523001899-gr1](https://github.com/user-attachments/assets/81fc5944-b7a7-4a15-90ae-036474dad6a5)
+
 
 
 ### Semi-Supervised Learning
