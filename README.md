@@ -117,10 +117,10 @@ template:
    - <img width="1079" alt="Screenshot 2025-05-27 at 10 44 54 PM" src="https://github.com/user-attachments/assets/bfe18adc-b098-4c78-b72d-ac091f12b05a" />
 
 
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+1. **Few-shot learning for structural health diagnosis of civil infrastructure**, *Advanced Engineering Informatics*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S1474034624002982)]
 
-   - Keypoint1
-   - Keypoint2
+   - This article systematically summarizes recent advances in FSL algorithms and the corresponding applications in SHD for civil infrastructure. A unified mathematical framework of FSL is formulated, and an FSL taxonomy is summarized according to intrinsic learning mechanisms and implementation principles, including metric learning-based, optimization-based, transfer learning-based, and generative model-based methods. Various applications of SHD for civil infrastructure under real-world scenarios are reviewed, including remote sensing monitoring, structural damage recognition, post-disaster safety evaluation, and construction risk assessment.
+   - ![1-s2 0-S1474034624002982-gr2](https://github.gatech.edu/xzhang979/CrackPaperList/assets/46549/d4d98a16-2223-4d96-b71e-7aea300caa70)
 
 
 
