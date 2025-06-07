@@ -360,6 +360,16 @@ template:
    - To achieve precise localization of cracks in the decoder, a novel channel attention block (CAB) is proposed, which reduces noisy responses and highlight salient encoder features using the channel attention mechanism.
    - ![b3428d72-075b-4c1f-abb9-9f6d06ae82c6](https://github.com/user-attachments/assets/65381336-dd74-4cab-83ff-3285b22ac5db)
 
+1. **SDDNet: Real-Time Crack Segmentation**, *IEEE Transactions on Industrial Electronics*, 2021.  [[Paper Link](https://ieeexplore.ieee.org/document/8863123)]
+
+   - The model consists of standard convolutions, densely connected separable convolution modules, a modified atrous spatial pyramid pooling module, and a decoder module.
+   - In addition, the model processes in real-time (36 FPS) images at 1025 × 512 pixels, which is 46 times faster than in a recent work
+   - ![Screenshot 2025-06-06 at 9 00 20 PM](https://github.com/user-attachments/assets/810f912f-fb01-49dd-be7d-e2e2b2ac7bb8)
+
+1. **Efficient attention-based deep encoder and decoder for automatic crack segmentation**, *Structural Health Monitoring*, 2021.  [[Paper Link](https://journals.sagepub.com/doi/full/10.1177/14759217211053776)]
+
+   - In this paper, a novel semantic transformer representation network (STRNet) is developed for crack segmentation at the pixel level in complex scenes in a real-time manner. STRNet is composed of a squeeze and excitation attention-based encoder, a multi head attention-based decoder, coarse upsampling, a focal-Tversky loss function, and a learnable swish activation function to design the network concisely by keeping its fast-processing speed.
+   - ![Screenshot 2025-06-06 at 9 05 01 PM](https://github.com/user-attachments/assets/d5bc3c97-786c-4976-a954-44039c2787bf)
 
 
 1. **CrackFormer: Transformer Network for Fine-Grained Crack Detection**, *ICCV*, 2021.  [[Paper Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_CrackFormer_Transformer_Network_for_Fine-Grained_Crack_Detection_ICCV_2021_paper.pdf)]
