@@ -705,6 +705,14 @@ template:
 
 
 ### Few shot
+
+1. **A Few-Shot Attention Recurrent Residual U-Net for Crack Segmentation**, *ISVC*, 2023.  [[Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-47969-4_16)]
+
+   - Recent studies indicate that deep learning plays a crucial role in the automated visual inspection of road infrastructures. However, current learning schemes are static, implying no dynamic adaptation to users’ feedback.
+   - To address this drawback, we present a few-shot learning paradigm for the automated segmentation of road cracks, which is based on a U-Net architecture with recurrent residual and attention modules (R2AU-Net). The retraining strategy dynamically fine-tunes the weights of the U-Net as a few new rectified samples are being fed into the classifier.
+   - ![image](https://github.com/user-attachments/assets/97ff3c41-058a-41d5-8809-f674b9300cd1)
+
+
 1. **CrackNex: a Few-shot Low-light Crack Segmentation Model Based on Retinex Theory for UAV Inspections**, *ICRA*, 2024.  [[Paper Link](https://ieeexplore.ieee.org/abstract/document/10611660)][[Code Link](https://github.com/zyaocoder/CrackNex?tab=readme-ov-file)]
 
    - Crack segmentation under such conditions is challenging due to the poor contrast between cracks and their surroundings. However, most deep learning methods are designed for well-illuminated crack images and hence their performance drops dramatically in low-light scenes. In addition, conventional approaches require many annotated low-light crack images which is time-consuming.
