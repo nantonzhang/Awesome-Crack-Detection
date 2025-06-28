@@ -771,7 +771,7 @@ Template:
    - ![7c349b65-e73f-4c9e-8bb2-e02dc29245a9](https://github.com/user-attachments/assets/f30415b2-66e9-4b18-9049-5ccdd7ce551b)
 
 
-### Generalizability
+### Foundation Models
 
 1. **Fine-tuning vision foundation model for crack segmentation in civil infrastructures**, *Construction and Building Materials*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950061824017148?casa_token=OzHmqYJQalIAAAAA:oCPK7UHPYFBpme5p7Y8P3nt6zWIiRX9K_7o700Rqb9ja8dKtaU_58LhZxxe8xY34I_2SImLBWBM)]
 
