@@ -367,7 +367,12 @@ Template:
    - ![f7fc1143-42f6-4bad-a8bc-1dc15c46897c](https://github.com/user-attachments/assets/d94fe895-9dcb-46e1-9172-59537d195d76)
 
 
-  
+1. **A Convolutional-Transformer Network for Crack Segmentation with Boundary Awareness**, *ICIP*, 2023.  [[Paper Link](https://ieeexplore.ieee.org/abstract/document/10222276)]
+
+   - we propose a novel convolutional-transformer network based on encoder-decoder architecture to solve this challenge. Particularly, we designed a Dilated Residual Block (DRB) and a Boundary Awareness Module (BAM). The DRB pays attention to the local detail of cracks and adjusts the feature dimension for other blocks as needed. And the BAM learns the boundary features from the dilated crack label.
+   - Furthermore, the DRB is combined with a lightweight transformer that captures global information to serve as an effective encoder
+   - <img width="879" height="434" alt="Screenshot 2025-08-05 at 12 18 07 PM" src="https://github.com/user-attachments/assets/09f4ef06-3c83-4a70-bb13-d76c8df06718" />
+
 1. **Crack detection and quantification for concrete structures using UAV and transformer**, *Automation in Construction*, 2023.  
    [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580523001899)]
 
@@ -375,6 +380,41 @@ Template:
    - Introduces an Independent Boundary Refinement Transformer (IBR-Former) for crack segmentation from UAV-captured images  
    - Achieves quantification of cracks with widths less than 0.2 mm, meeting civil engineering code requirements
    - ![1-s2 0-S0926580523001899-gr1](https://github.com/user-attachments/assets/81fc5944-b7a7-4a15-90ae-036474dad6a5)
+
+
+1. **Selective Feature Fusion and Irregular-Aware Network for Pavement Crack Detection**, *IEEE Transactions on Intelligent Transportation Systems*, 2023.  [[Paper Link](https://ieeexplore.ieee.org/document/10299612/authors#authors)]
+
+   - this paper introduces an innovative neural network architecture termed the ‘Selective Feature Fusion and Irregular-Aware Network (SFIAN)’ designed specifically for crack detection on pavements. The proposed network selectively integrates features from multiple levels, enhancing and controlling the flow of valuable information at each stage while effectively modeling irregular crack objects
+   - <img width="805" height="354" alt="Screenshot 2025-08-05 at 12 13 09 PM" src="https://github.com/user-attachments/assets/7a1ad4ac-b819-4c9b-9410-95a515e0085d" />
+
+
+1. **A crack-segmentation algorithm fusing transformers and convolutional neural networks for complex detection scenarios**, *Automation in Construction*, 2023.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580523001541)]
+
+   - a dual-encoder network fusing transformers and convolutional neural networks (DTrC-Net) is proposed in this study. The structure of the DTrC-Net was designed to capture both the local features and global contextual information of crack images. To enhance feature fusion between the adjacent and codec layers, a feature fusion module and a residual path module were also added to the network
+   - Moreover, a fast processing speed of 78 frames per second was achieved using the DTrC-Net with an image size of 256 × 256 pixels
+   - <img width="633" height="352" alt="Screenshot 2025-08-05 at 12 24 54 PM" src="https://github.com/user-attachments/assets/32936ae4-70fc-4991-bf25-8772f4356661" />
+
+1. **Dual-path network combining CNN and transformer for pavement crack segmentation**, *Automation in Construction*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580523004776)]
+
+   - a dual-path network for pavement crack segmentation is introduced, leveraging a synergistic combination of Convolutional Neural Network (CNN) and transformer.
+   - First, the proposed approach involves a lightweight CNN encoder for local feature extraction and a novel transformer encoder integrating a fully convolutional high-low frequency attention (FCHiLo) mechanism and an efficient feedforward network for global feature extraction. Second, a complementary fusion module (CFM) is introduced to aggregate intermediate features extracted from both encoders.
+   - ![1-s2 0-S0926580523004776-gr1_lrg](https://github.com/user-attachments/assets/6a7b9594-ec56-4212-82f5-6ec6ddbfdb9a)
+
+
+1. **Staircase Cascaded Fusion of Lightweight Local Pattern Recognition and Long-Range Dependencies for Structural Crack Segmentation**, *arXiv*, 2024.  [[Paper Link](https://arxiv.org/abs/2408.12815)]
+
+   - we propose the Staircase Cascaded Fusion Crack Segmentation Network (CrackSCF), which generates high-quality crack segmentation maps while reducing computational overhead.
+   - We design a lightweight convolutional block that substitutes all convolution operations, reducing the model's computational demands while maintaining an effective capture of local details. Additionally, we introduce a lightweight long-range dependency extractor to better capture the long-range dependencies. Furthermore, we develop a staircase cascaded fusion module, which seamlessly integrates local patterns and long-range dependencies, resulting in high-quality segmentation maps. 
+   - The F1 and mIoU scores on the TUT dataset are 0.8382 and 0.8473, respectively, demonstrating state-of-the-art (SOTA) performance with low computational resources.
+   - <img width="1234" height="493" alt="Screenshot 2025-08-05 at 12 06 14 PM" src="https://github.com/user-attachments/assets/1a85b576-e8f7-4da0-b745-c48f40a929db" />
+
+
+1. **SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures**, *CVPR*, 2025.  [[Paper Link](https://arxiv.org/abs/2503.01113)]
+
+   - we propose a lightweight Structure-Aware Vision Mamba Network (SCSegamba), capable of generating high-quality pixel-level segmentation maps by leveraging both the morphological information and texture cues of crack pixels with minimal computational cost.
+   - Specifically, we developed a Structure-Aware Visual State Space module (SAVSS), which incorporates a lightweight Gated Bottleneck Convolution (GBC) and a Structure-Aware Scanning Strategy (SASS). The key insight of GBC lies in its effectiveness in modeling the morphological information of cracks, while the SASS enhances the perception of crack topology and texture by strengthening the continuity of semantic information between crack pixels.
+   - Experiments on crack benchmark datasets demonstrate that our method outperforms other state-of-the-art (SOTA) methods, achieving the highest performance with only 2.8M parameters. On the multi-scenario dataset, our method reached 0.8390 in F1 score and 0.8479 in mIoU.
+   - <img width="944" height="300" alt="Screenshot 2025-08-05 at 11 52 34 AM" src="https://github.com/user-attachments/assets/144282b8-7dcc-467d-9df4-b5223411b0f2" />
 
 
 
