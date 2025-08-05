@@ -255,6 +255,21 @@ Template:
    - The dataset of 743 images covering crack, spalling, corrosion, efflorescence, vegetation, and control point is unprecedented in terms of quantity and realism
    - <img width="743" alt="Screenshot 2025-05-27 at 10 11 46 PM" src="https://github.com/user-attachments/assets/6d1642b6-c2b7-41cc-b1b7-08142b16c5ea" />
 
+1. **CrackMap: A Few‑Shot Attention Recurrent Residual U‑Net for Crack Segmentation**, *arXiv*, 2023.  [[Paper Link](https://arxiv.org/pdf/2303.01582)]
+
+   - CrackMap contains 120 road crack images collected using a vehicle-mounted RGB camera, representing typical road scenes. The dataset is designed to support few-shot learning experiments in crack detection.
+   - <img width="493" height="778" alt="image" src="https://github.com/user-attachments/assets/0fc7ef29-a1e8-43bd-aaf8-f0c74fe04124" />
+
+1. **TUT Crack Dataset: Staircase Cascaded Fusion for Structural Crack Segmentation**, *arXiv*, 2024.  [[Paper Link](https://arxiv.org/pdf/2408.12815)]
+
+   - The TUT dataset includes 1,408 crack images, with 1,270 collected via mobile phones and 138 from online sources. It features diverse, real-world backgrounds and complex crack shapes, offering a challenging testbed for crack segmentation.
+   - <img width="1460" height="804" alt="image" src="https://github.com/user-attachments/assets/69e0dd68-26fe-401c-8db0-a185168f0993" />
+
+1. **SegCODEBRIM: Hybrid Neural System to Learn Real-World Crack Segmentation**, *WACV*, 2024.  [[Paper Link](https://openaccess.thecvf.com/content/WACV2024/papers/Jaziri_Designing_a_Hybrid_Neural_System_To_Learn_Real-World_Crack_Segmentation_WACV_2024_paper.pdf)]
+
+   - SegCODEBRIM includes 420 crack segmentation masks added to the CODEBRIM dataset, originally a collection of concrete bridge defect images. It enables realistic training and evaluation for deep learning-based crack detection on concrete surfaces.
+   - <img width="586" height="580" alt="image" src="https://github.com/user-attachments/assets/11d8253b-7dd1-4eb6-a8b7-389316109dff" />
+
 1. **Crack900: Crack detection of masonry structure based on thermal and visible image fusion and semantic segmentation**, *Automation in Construction*, 2023.  [[Paper Link]([link](https://www.sciencedirect.com/science/article/pii/S0926580523004739?via%3Dihub))]
 
    - 914 sets of visible and infrared (IR) images captured from masonry walls using solar heating as the sole heat source.
