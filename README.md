@@ -353,6 +353,13 @@ Template:
    - To achieve precise localization of cracks in the decoder, a novel channel attention block (CAB) is proposed, which reduces noisy responses and highlight salient encoder features using the channel attention mechanism.
    - ![b3428d72-075b-4c1f-abb9-9f6d06ae82c6](https://github.com/user-attachments/assets/65381336-dd74-4cab-83ff-3285b22ac5db)
 
+1. **A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion**, *IEEE Transactions on Intelligent Transportation Systems*, 2021.  [[Paper Link](https://ieeexplore.ieee.org/abstract/document/9525316)]
+
+   - Inspired by the latest developments of deep learning in computer vision, we propose a novel crack detection algorithm of concrete pavement based on attention mechanism and multi-features fusion, and make it possible to deal with various cracks in different pavement backgrounds.
+   - The proposed network is constructed using the encoder-decoder structure. The architecture of the encoder part is consisted of Res2Net modules with attention mechanism to achieve fast focus of cracks. Cascade and parallel mode dilated convolutions are set as the center part to enlarge the receptive field of feature points without reducing the resolution of the feature maps.
+   - <img width="874" height="441" alt="Screenshot 2025-08-05 at 2 42 52 PM" src="https://github.com/user-attachments/assets/4a11d1c4-1f84-475e-9e72-007564b2d179" />
+
+
 1. **SDDNet: Real-Time Crack Segmentation**, *IEEE Transactions on Industrial Electronics*, 2021.  [[Paper Link](https://ieeexplore.ieee.org/document/8863123)]
 
    - The model consists of standard convolutions, densely connected separable convolution modules, a modified atrous spatial pyramid pooling module, and a decoder module.
