@@ -102,6 +102,11 @@ Template:
    - ![image](https://github.com/user-attachments/assets/4a9075ec-6914-488f-8470-666a316feb49)
 
 
+1. **Structural crack detection using deep convolutional neural networks**, *Automation in Construction*, 2022.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580521004404#f0010)]
+
+   -  This article presents a review of CNN implementation on civil structure crack detection. The review highlights the significant research that has been performed to detect structure cracks through classification and segmentation of crack images with CNN in the perspective of image pre-processing techniques, processing hardware, software tools, datasets, network architectures, learning procedures, loss functions, and network performance.
+   - <img width="505" height="184" alt="image" src="https://github.com/user-attachments/assets/a4dd1e8c-7fc6-426a-bf18-5f48c843fb64" />
+
 
 1. **Deep Learning-Based Crack Detection: A Survey**, *International Journal of Pavement Research and Technology *, 2022.  [[Paper Link](https://link.springer.com/article/10.1007/s42947-022-00172-z)]
 
