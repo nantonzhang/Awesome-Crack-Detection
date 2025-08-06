@@ -263,7 +263,7 @@ Template:
 1. **FIND: Deep Learning-Based Crack Detection and Segmentation Using High-Resolution 3D Laser Imaging**, *Automation in Construction*, 2023.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580522005489)]
 
    - The FIND dataset consists of 2,500 crack image patches collected from bridge decks and roadways using a high-resolution laser scanning system. Each image includes surface elevation information and comes in four types: raw intensity, raw range, filtered range, and fused representations.
-   - <img width="309" height="1759" alt="image" src="https://github.com/user-attachments/assets/88fa3974-b39e-4d0c-92aa-ae16e638bb76" />
+   - <img width="981" height="217" alt="image" src="https://github.com/user-attachments/assets/14dee032-b548-4f5c-bcde-a2833cc1ec1a" />
 
 1. **CrackMap: A Few‑Shot Attention Recurrent Residual U‑Net for Crack Segmentation**, *arXiv*, 2023.  [[Paper Link](https://arxiv.org/pdf/2303.01582)]
 
