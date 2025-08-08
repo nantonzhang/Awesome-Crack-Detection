@@ -66,6 +66,13 @@ Template:
    - ![image](https://github.com/user-attachments/assets/356c232f-4404-4348-83d5-6e1f2c2374fa)
 
 
+1. **Deep learning-based crack segmentation for civil infrastructure: data types, architectures, and benchmarked performance**, *Automation in Construction*, 2023.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580522005489#f0030)]
+
+   - This paper reviews recent developments in deep learning-based crack segmentation methods and investigates their performance under the impact from different image types.
+   - an image dataset, namely the Fused Image dataset for convolutional neural Network based crack Detection (FIND), was released to the public for deep learning analysis.
+   - <img width="501" height="200" alt="image" src="https://github.com/user-attachments/assets/768d7816-6bb0-4486-9c0c-0a870de155d2" />
+
+
 
 1. **Computer vision framework for crack detection of civil infrastructure—A review**, *Engineering Applications of Artificial Intelligence*, 2023.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0952197622004687)]
 
