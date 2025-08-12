@@ -1,4 +1,4 @@
-# Awesome-Crack-Detection
+# Awesome-Crack-Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/nantonzhang/Awesome-Crack-Detection/blob/master/How-to-PR.md)
 
 
 Template:
@@ -8,6 +8,9 @@ Template:
    - Keypoint1
    - Keypoint2
 ```
+
+## 🔥 News
+- [2025-08-12] We curated this list and published the first version.
 
 ## Review Papers
 ### General CV
