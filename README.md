@@ -1,4 +1,4 @@
-# Awesome-Crack-Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/nantonzhang/Awesome-Crack-Detection/blob/master/How-to-PR.md)
+# Awesome-Crack-Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/nantonzhang/Awesome-Crack-Detection/blob/master/How-to-PR.md) [![arXiv](https://img.shields.io/badge/arxiv-2508.10256-b31b1b?style=flat&logoColor=red)](https://arxiv.org/abs/2508.10256)
 
 
 Template:
@@ -10,6 +10,7 @@ Template:
 ```
 
 ## 🔥 News
+- [2025-08-14] 📢 Check out our comprehensive review paper [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)
 - [2025-08-12] We curated this list and published the first version.
 
 ## Review Papers
