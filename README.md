@@ -1,17 +1,45 @@
 # Awesome-Crack-Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/nantonzhang/Awesome-Crack-Detection/blob/master/How-to-PR.md) [![arXiv](https://img.shields.io/badge/arxiv-2508.10256-b31b1b?style=flat&logoColor=red)](https://arxiv.org/abs/2508.10256)
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/35e69d5c-a5b4-4662-99e2-d0b241feb8b1" width="80%">
+</div>
 
-Template:
-```
-1. **Title**, *Publish*, Year.  [[Paper Link](link)]
+## 📚About
 
-   - Keypoint1
-   - Keypoint2
+This repository is largely based on the following paper:
+
+**[Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)**
+<br />
+Xinan Zhang, Haolin Wang, Yung-An Hsieh, Zhongyu Yang, Anthony Yezzi, Yi-Chang Tsai
+<br />
+
+If you find this repository helpful, please consider giving a star and citing:
+
+```bibtex
+@article{zhang2025deep,
+  title={Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets},
+  author={Zhang, Xinan and Wang, Haolin and Hsieh, Yung-An and Yang, Zhongyu and Yezzi, Anthony and Tsai, Yi-Chang},
+  journal={arXiv preprint arXiv:2508.10256},
+  year={2025}
+}
 ```
 
 ## 🔥 News
 - [2025-08-14] 📢 Check out our comprehensive review paper [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)
 - [2025-08-12] We curated this list and published the first version.
+
+## Overview
+
+  - [Review Papers](#review-papers)
+  - [Datasets](#datasets)
+  - [Supervised Learning](#supervised-learning)
+  - [Semi-Supervised Learning](#semi-supervised-learning)
+  - [Weakly Supervised Learning](#weakly-supervised)
+  - [Domain Adaptation](#domain-adaptation)
+  - [Few shot Learning](#few-shot)
+  - [Unsupervised Learning](#unsupervised)
+  - [Foundation Models](#foundation-models)
+  - [Citation](#citation)
 
 ## Review Papers
 ### General CV
@@ -899,4 +927,15 @@ Template:
    - ![81db6364-ac9a-4f7e-8359-5afa5a158511](https://github.com/user-attachments/assets/3b333427-2615-40ab-a832-d3b3f4bd8564)
 
 
+## Citation
 
+If you find this repository helpful, please consider giving a star and citing:
+
+```bibtex
+@article{zhang2025deep,
+  title={Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets},
+  author={Zhang, Xinan and Wang, Haolin and Hsieh, Yung-An and Yang, Zhongyu and Yezzi, Anthony and Tsai, Yi-Chang},
+  journal={arXiv preprint arXiv:2508.10256},
+  year={2025}
+}
+```
