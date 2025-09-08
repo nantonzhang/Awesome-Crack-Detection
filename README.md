@@ -930,7 +930,7 @@ If you find this repository helpful, please consider giving a star and citing:
 
    - In this paper, by taking tunnel crack detection as the background, the CraSAM network is proposed, which incorporates a foundation model-based encoder and a prompt transfer learning module.
    - Based on six datasets including tunnel, bridge, building, and pavement, the CraSAM is compared with 15 state-of-the-art models, including Unet, DeepLabv3+, SSSeg, and TransUNet. It exhibits superior generalization capability both on few-sample learned and unlearned conditions.
-   - !<img width="1321" height="591" alt="image" src="https://github.com/user-attachments/assets/64b81b52-232a-41db-8416-91cba3793b2d" />
+   - <img width="1321" height="591" alt="image" src="https://github.com/user-attachments/assets/64b81b52-232a-41db-8416-91cba3793b2d" />
 
 ## Citation
 
