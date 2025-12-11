@@ -882,6 +882,13 @@ If you find this repository helpful, please consider giving a star and citing:
    - ![7c349b65-e73f-4c9e-8bb2-e02dc29245a9](https://github.com/user-attachments/assets/f30415b2-66e9-4b18-9049-5ccdd7ce551b)
 
 
+1. **Anomaly detection of cracks in synthetic masonry arch bridge point clouds using fast point feature histograms and PatchCore**, *Automation in Construction*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580524005028#b35)]
+
+   - Previous research has focused on detecting surface cracks from images. This paper develops an alternative approach where cracks are identified from point clouds via geometric distortions.
+   - An image-based anomaly detection method called PatchCore is customized for 3D applications for this purpose. First, Fast Point Feature Histograms (FPFH) are used to extract geometric features. Then PatchCore is applied on synthetic point clouds with crack labels, generated using 3D finite element modelling (FEM) and graphical modelling.
+   - ![1-s2 0-S0926580524005028-gr1](https://github.com/user-attachments/assets/71fc492e-8780-46f6-855f-2bc722b674b7)
+
+
 ### Foundation Models
 
 1. **Fine-tuning vision foundation model for crack segmentation in civil infrastructures**, *Construction and Building Materials*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0950061824017148?casa_token=OzHmqYJQalIAAAAA:oCPK7UHPYFBpme5p7Y8P3nt6zWIiRX9K_7o700Rqb9ja8dKtaU_58LhZxxe8xY34I_2SImLBWBM)]
