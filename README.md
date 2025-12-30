@@ -25,6 +25,7 @@ If you find this repository helpful, please consider giving a star and citing:
 ```
 
 ## 🔥 News
+- [2025-12-30] 🧑‍💻 We released a codebase for DL-based crack detection [GT-CrackSeg](https://github.com/GT-SCI/GT-CrackSeg)
 - [2025-08-14] 📢 Check out our comprehensive review paper [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)
 - [2025-08-12] We curated this list and published the first version.
 
