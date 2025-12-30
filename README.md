@@ -25,6 +25,7 @@ If you find this repository helpful, please consider giving a star and citing:
 ```
 
 ## 🔥 News
+- [2025-12-30] 🧑‍💻 We released a codebase for DL-based crack detection [GT-CrackSeg](https://github.com/GT-SCI/GT-CrackSeg)
 - [2025-08-14] 📢 Check out our comprehensive review paper [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)
 - [2025-08-12] We curated this list and published the first version.
 
@@ -880,6 +881,13 @@ If you find this repository helpful, please consider giving a star and citing:
    - A convolutional autoencoder was trained as a reconstruction-based model, with the defect-free images, to rapidly and reliably detect defects from the large volume of image datasets. This training process was in the unsupervised mode, with no label needed, thereby requiring no prior knowledge and saving an enormous amount of time for label preparation.
    - The built anomaly detector favors minimizing the reconstruction errors of defect-free images, which renders high reconstruction errors of defects, in turn, detecting the location of defects. The assessment shows that the proposed anomaly detection technique is robust and adaptable to defects on wide ranges of scales.
    - ![7c349b65-e73f-4c9e-8bb2-e02dc29245a9](https://github.com/user-attachments/assets/f30415b2-66e9-4b18-9049-5ccdd7ce551b)
+
+
+1. **Anomaly detection of cracks in synthetic masonry arch bridge point clouds using fast point feature histograms and PatchCore**, *Automation in Construction*, 2024.  [[Paper Link](https://www.sciencedirect.com/science/article/pii/S0926580524005028#b35)]
+
+   - Previous research has focused on detecting surface cracks from images. This paper develops an alternative approach where cracks are identified from point clouds via geometric distortions.
+   - An image-based anomaly detection method called PatchCore is customized for 3D applications for this purpose. First, Fast Point Feature Histograms (FPFH) are used to extract geometric features. Then PatchCore is applied on synthetic point clouds with crack labels, generated using 3D finite element modelling (FEM) and graphical modelling.
+   - ![1-s2 0-S0926580524005028-gr1](https://github.com/user-attachments/assets/71fc492e-8780-46f6-855f-2bc722b674b7)
 
 
 ### Foundation Models
