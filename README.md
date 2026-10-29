@@ -25,6 +25,7 @@ If you find this repository helpful, please consider giving a star and citing:
 ```
 
 ## 🔥 News
+- [2026-10-28] 📦 [3DCrack](https://drive.google.com/file/d/11iXdDS49GPim5nrRvXY9WR1aZmSLUrU1/view?usp=sharing) is now also available on [Zenodo](https://zenodo.org/records/23681508) and [Hugging Face](https://huggingface.co/datasets/THiNK327/3DCrack)
 - [2026-07-20] 🚀 We released a dataset for DL-based crack detection [3DCrack](https://drive.google.com/file/d/11iXdDS49GPim5nrRvXY9WR1aZmSLUrU1/view?usp=sharing)
 - [2025-12-30] 🧑‍💻 We released a codebase for DL-based crack detection [GT-CrackSeg](https://github.com/GT-SCI/GT-CrackSeg)
 - [2025-08-14] 📢 Check out our comprehensive review paper [Deep Learning for Crack Detection: A Review of Learning Paradigms, Generalizability, and Datasets](https://arxiv.org/abs/2508.10256)
